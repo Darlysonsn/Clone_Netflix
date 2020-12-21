@@ -8,6 +8,9 @@ DIGITAL INNOVETION
 ## == Tecnologias
 
 Projeto este desenvolvido com:
+
 --Html
+
 --Css
+
 --jQuery
